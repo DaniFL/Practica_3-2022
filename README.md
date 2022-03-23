@@ -39,7 +39,8 @@ En este programa hemos definido tres variables:
 make ejecutar
 ```
 Una vez se ejecute el código, se le pedirá al usuario que introduzca un número
-de intentos con el que calcular la aproximación.
+de intentos con el que calcular la aproximación. (Cuanto mayor sea el número
+introducido, más exacta será la aproximación).
 
 * Compilación código:
 ```shell
