@@ -21,7 +21,8 @@ aplicando expresiones Lambda.
 
 Las expresiones lambda son funciones anónimas, es decir, funciones que no necesitan una clase.
 En este caso hemos implementado este tipo de funciones junto a una interfaz funcional, las cuales tienen un método a implementar,
-es decir, un método abstracto.
+es decir, un método abstracto. Una interfaz funcional define objetos que no guardan valores como los objetos tradicionales sino 
+que sirven para guardar funciones.
 
 El método de Monte Carlo consiste en inscribir una circunferencia dentro un cuadrado, (siendo el diámetro de la circunferencia
 igual que uno de los lados del cuadrado) y mediante la generación de puntos aleatorios sobre la superficie dibujada se establece
