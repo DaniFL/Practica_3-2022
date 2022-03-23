@@ -35,17 +35,11 @@ En este programa hemos definido tres variables:
 
 ## Comandos:
 
-* Ejecución código:
-```shell
-java -jar ap-Matematicas.jar X 
-```
-
-Donde X determina el número de intentos, por ejemplo 1000.
-Aunque también es posible ejecutar el programa mediante el comando:
-
 ```shell
 make ejecutar
 ```
+Una vez se ejecute el código, se le pedirá al usuario que introduzca un número
+de intentos con el que calcular la aproximación.
 
 * Compilación código:
 ```shell
