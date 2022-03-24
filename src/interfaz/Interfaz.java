@@ -1,6 +1,10 @@
+/**
+ * Paquete interfaz que contiene la interfaz funcional "Interfaz".
+ */
 package interfaz;
 
 @FunctionalInterface
+
 /**
  * Interfaz funcional que guarda la función para generar la aproximación a pi.
  */

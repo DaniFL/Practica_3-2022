@@ -1,3 +1,6 @@
+/**
+ * Paquete aplicación que contiene la clase Principal.
+ */
 package aplicacion;
 
 import interfaz.*;
